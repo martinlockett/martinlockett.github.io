@@ -5,4 +5,4 @@ layout: default
 
 # Hello World
 
-**and this**
+and **everyone** else
