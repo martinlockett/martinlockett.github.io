@@ -1,6 +1,6 @@
 ---
 title: Martin Lockett
-layout: post
+layout: default
 ---
 
 # Hello World
